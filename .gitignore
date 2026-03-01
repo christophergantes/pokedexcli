@@ -28,8 +28,13 @@ go.work.sum
 .env
 
 # Editor/IDE
+ /.idea/
  .idea/
 # .vscode/
 
 .DS_Store
 repl.log
+/.idea/go.imports.xml
+/.idea/pokedexcli.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
